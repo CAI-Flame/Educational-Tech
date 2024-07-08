@@ -10,9 +10,9 @@ Instructions to run the python program in order to generate the desired output i
 
 - Clone this repository and transfer all of the contents in a folder named `VideoQA`.
 
-- Download the [Denoiser-master](https://drive.google.com/drive/folders/1KjHYIfO7ypbHg32t0_woQbP78eBL20bL?usp=sharing) folder and transfer it in the `VideoQA` folder.
+- Download the [Denoiser-master](https://drive.google.com/drive/folders/15-0XHF_xHw1wR62SV5iJWjg5rjllBYIW?usp=sharing) folder and transfer it in the `VideoQA` folder.
 
-- Download the [pre-trained models](https://drive.google.com/drive/folders/1jijLmJOGUa6_QdCVJlsOeq8sTluXP8Gl?usp=sharing) folder and transfer it in the `VideoQA` folder. 
+- Download the [pre-trained models](https://drive.google.com/drive/folders/15-0XHF_xHw1wR62SV5iJWjg5rjllBYIW?usp=sharing) folder and transfer it in the `VideoQA` folder. 
 
 - Upload this folder in your google drive.
 
